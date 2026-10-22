@@ -1,0 +1,53 @@
+Test Plan – Flipkart Website
+
+1. Purpose
+
+To evaluate selected functionalities of the Flipkart website and identify deviations from expected behavior.
+
+2. Test Scope
+
+In Scope:
+
+- Category navigation
+- Product listing relevance
+- Search functionality
+- Product details
+- Filters and sorting
+- Cart functionality, where accessible
+- Basic UI behavior
+
+Out of Scope:
+
+- Internal source code and backend testing
+- Payment processing using real transactions
+- Restricted features that cannot be accessed
+- Features not included in the executed test session
+
+3. Test Approach
+
+Testing will be performed manually using the website interface. Test scenarios will be converted into detailed test cases. Actual results will be recorded after execution, and observed defects will be documented with reproducible steps and screenshots.
+
+4. Test Environment
+
+Application: Flipkart
+Module: Value 365
+Platform: Android
+Device: Samsung M52 5G
+Android Version: Version 13
+
+5. Entry Criteria
+
+- Website is accessible.
+- The relevant feature can be accessed.
+- Test scenarios and test cases are prepared.
+
+6. Exit Criteria
+
+- Planned test cases have been executed where possible.
+- Results are documented accurately.
+- Observed defects have supporting evidence where available.
+- Unexecuted and blocked cases are clearly identified.
+
+7. Deliverables
+
+Test scenarios, test cases, defect reports, screenshots, and execution summary.
