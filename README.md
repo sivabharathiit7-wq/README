@@ -1,2 +1,2 @@
 # README
-Project introduction, objective, scope and tools
+MANUAL TESTING IN FLIPKART
