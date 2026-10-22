@@ -1,0 +1,76 @@
+Flipkart Website – Manual Testing Project
+
+1. Project Introduction
+
+This is an independent manual testing project focused on evaluating selected functionalities of the Flipkart e-commerce website. The project covers category navigation, product listing, search, filters, sorting, and other accessible website features.
+
+During exploratory testing, I observed that irrelevant products were displayed after selecting the Toys or Beauty category. I documented this observation and prepared test scenarios, test cases, and a defect report for further verification.
+
+2. Project Objectives
+
+- Verify category navigation and product listing behavior.
+- Validate the expected functionality of selected website features.
+- Design positive and negative test cases.
+- Identify, document, and track observed defects.
+- Capture screenshots as defect evidence.
+- Practise standard QA documentation.
+
+3. Application Under Test
+
+- Application: Flipkart Website
+- Application Type: E-commerce Web Application
+- Testing Approach: Manual Testing
+- Device: Samsung Galaxy M52 5G
+- Documentation Tools: Excel / WPS Spreadsheet
+
+4. Scope of Testing
+
+- Homepage and category navigation
+- Product listing and product details
+- Product search
+- Filters and sorting
+- Cart functionality, where accessible
+- Selected user interface behaviors
+
+5. Testing Types
+
+- Functional Testing
+- Integration Testing 
+- System testing 
+- Exploratory Testing
+- Positive Testing 
+- Negative Testing
+- UI Testing
+- Compatibility Testing, where performed
+- Retesting 
+- Regression Testing, after relevant changes, where possible
+
+6. Defect Identified
+
+Defect ID: FLIP_V365_001
+
+Title: Irrelevant products displayed after selecting the Toys or Beauty category.
+
+Expected Result: Products should be relevant to the selected category.
+
+Observed Result: Irrelevant products were observed after selecting the Toys or Beauty category.
+
+Status: Observation recorded; verification required.
+
+7. Project Deliverables
+
+- README
+- Test_Plan
+- Test_Scenarios
+- Test_Cases
+- Bug_Reports
+- Screenshots
+- Test_Summary
+
+8. Conclusion
+
+This project demonstrates practical learning in manual testing, test scenario design, test case preparation, defect reporting, evidence collection, and QA documentation.
+
+Disclaimer
+
+This is an independent learning project and is not an official Flipkart project. It does not imply affiliation with or endorsement by Flipkart.
