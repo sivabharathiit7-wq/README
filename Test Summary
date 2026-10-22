@@ -1,0 +1,32 @@
+Test Execution Summary – Flipkart Website
+
+1. Project Details
+
+Project: Flipkart Website – Manual Testing
+Testing Approach: Manual Testing
+Device: Samsung Galaxy M52 5G
+
+2. Initial Observation
+
+During category navigation testing, irrelevant products were observed after selecting the Toys or Beauty category.
+
+3. Defect Reference
+
+Defect ID: FLIP_V365_001
+
+Module: Category Navigation / Product Listing
+
+Status: Open 
+
+4. Execution Metrics
+
+Total Test Cases:10
+Executed: 10
+Not executed: 0
+Passed: 8
+Failed: 2
+
+
+5. Conclusion
+
+The project provides practical experience in preparing test scenarios, writing test cases, recording execution results, and documenting observed defects.
